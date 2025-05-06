@@ -6,9 +6,6 @@ Welcome to the **YouTube Clone** project! This is a full-stack video streaming p
 
 ---
 
-![Screenshot (42)](https://github.com/user-attachments/assets/c8d4b4fe-a318-4ab7-bd45-767ab43f9491)
-
-
 ## 🌟 Features
 
 ### 1. 🔁 Multi-Quality Video Playback
@@ -61,7 +58,8 @@ An immersive experience using modern gesture controls:
 
 ## 📸 Screenshots
 
-> *(Add screenshots here to make your project more visually appealing)*
+> ![Screenshot (42)](https://github.com/user-attachments/assets/11e54118-be71-4ec9-907f-9e19ac3ac325)
+
 
 ---
 
